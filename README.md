@@ -1,2 +1,2 @@
 # re-system
-Sistema de recomendaciones usando python y el framework flask
+sistema de recomendaciones usando python y el framework flask
